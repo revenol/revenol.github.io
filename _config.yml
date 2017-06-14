@@ -1,6 +1,6 @@
 title: Revenol.GitHub.io
 description: Personal Website
-google_analytics: 
+google_analytics: true
 show_downloads: true
 theme: jekyll-theme-cayman
 
