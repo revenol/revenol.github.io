@@ -3,6 +3,7 @@ description: Personal Website
 google_analytics: true
 show_downloads: true
 theme: jekyll-theme-cayman
+repository: revenol/revenol.github.io
 
 gems:
   - jekyll-mentions
