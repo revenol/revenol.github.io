@@ -7,4 +7,4 @@
 1. [Find the best IP for shadowsocks](http://revenol.github.io/Shadowsocks-IPScan/index.html)
 
 ### REVENOL's Blog
-1. [My study notes](../notes/README.md)
+1. [My study notes](https://github.com/revenol/notes/blob/master/README.md)
