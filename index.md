@@ -4,8 +4,7 @@
 >They come, but often too late.
 
 ### REVENOL's Projects
-1. [Find the best IP for shadowsocks](./Shadowsocks-IPScan)
-
+1. [Find the best IP for shadowsocks](http://revenol.github.io/Shadowsocks-IPScan/)
 
 ### REVENOL's Blog
-1. [My study notes](./notes)
+1. [My study notes](http://revenol.github.io/notes)
